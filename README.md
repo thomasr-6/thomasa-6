@@ -1,13 +1,9 @@
 <html>
   <head>
+    <link rel="stylesheet" href="readmestyle.css">
   </head>
   <body>
-
-### Hi there 👋
-- @import url('https://fonts.googleapis.com/css2?family=Fira+Code&display=swap');
--  * {
--  font-family: 'Fira Code', monospace;
--  }
+Hi There! ⚡
 <p>I'm Thomas. A programmer from the United Kingdom who has experience in various languages such as HTML, CSS, JS and Java.</p>
 <p>I will be using this page as somewhere to put my personal projects!</p> 
 </body>
