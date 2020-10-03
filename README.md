@@ -1,6 +1,6 @@
 <html>
   <head>
-    <link rel="stylesheet" href="readmestyle.css">
+    <link rel="stylesheet" href="https://github.com/thomasr-6/thomasr-6/blob/main/readmestyle.css">
   </head>
   <body>
 Hi There! ⚡
