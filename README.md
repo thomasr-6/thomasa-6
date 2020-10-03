@@ -1,4 +1,6 @@
 ### Hi there 👋
+<p> Hey </p>
+<h1> Whats up </h1>
 
 <!--
 **thomasr-6/thomasr-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
