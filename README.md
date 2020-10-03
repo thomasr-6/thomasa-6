@@ -1,7 +1,5 @@
 <html>
   <head>
-    <link rel="stylesheet" href="https://github.com/thomasr-6/thomasr-6/blob/main/readmestyle.css">
-    <link href="https://fonts.googleapis.com/css2?family=Fira+Code&display=swap" rel="stylesheet">
   </head>
   <body>
 Hi There! ⚡
