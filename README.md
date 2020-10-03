@@ -1,6 +1,14 @@
+<html>
+  <head>
+    <link rel="stylesheet" src="/readmestyle.css">
+  </head>
+  <body>
+
 ### Hi there 👋
 <p>I'm Thomas. A programmer from the United Kingdom who has experience in various languages such as HTML, CSS, JS and Java.</p>
 <p>I will be using this page as somewhere to put my personal projects!</p> 
+</body>
+</html>
 
 <!--
 **thomasr-6/thomasr-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
