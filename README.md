@@ -1,6 +1,6 @@
 <html>
   <head>
-    <link rel="stylesheet" src="/readmestyle.css">
+    <link rel="stylesheet" src="readmestyle.css">
   </head>
   <body>
 
