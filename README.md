@@ -1,6 +1,6 @@
 ### Hi there 👋
-<p> Hey </p>
-<h1> Whats up </h1>
+<p>I'm Thomas. A programmer from the United Kingdom who has experience in various languages such as HTML, CSS, JS and Java.</p>
+<p>I will be using this page as somewhere to put my personal projects!</p> 
 
 <!--
 **thomasr-6/thomasr-6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
